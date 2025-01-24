@@ -1,0 +1,9 @@
+# Ignore everything in this directory
+A*
+B*
+C*
+D*
+intra/*
+intra_o/*
+# Except this file
+!.gitignore
