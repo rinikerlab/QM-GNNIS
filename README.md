@@ -2,7 +2,7 @@
 
 ## Publication
 
-Katzberger P., Pultar F., and Riniker S., ChemRxiv. 2025
+Katzberger P., Pultar F., and Riniker S., ChemRxiv. 2025 DOI: [doi:10.26434/chemrxiv-2025-sx29m](https://doi.org/10.26434/chemrxiv-2025-sx29m)
 
 ## Abstract
 
